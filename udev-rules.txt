@@ -4,3 +4,9 @@ Bus 001 Device 004: ID 0424:7800 Microchip Technology, Inc. (formerly SMSC)
 Bus 001 Device 003: ID 0424:2514 Microchip Technology, Inc. (formerly SMSC) USB 2.0 Hub
 Bus 001 Device 002: ID 0424:2514 Microchip Technology, Inc. (formerly SMSC) USB 2.0 Hub
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+
+
+matt@kf-sort:~ $ cat /etc/udev/rules.d/99-esp32-cdc.rules
+ACTION=="add", SUBSYSTEM=="tty", ATTRS{idVendor}=="303a", ATTRS{idProduct}=="1001", RUN+="/bin/su matt -c '/usr/bin/python3 /home/matt/plastell/plastell.py'"
+matt@kf-sort:~ $ 
+
