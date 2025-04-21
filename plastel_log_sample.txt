@@ -1,0 +1,107 @@
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 5.53-27.52, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47890 +- 16, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 260 ms and classified in 9 ms. Quality 89.22. Top hit PET (0.77).
+Found:: 3PET 0.77
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 5.53-27.56, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47881 +- 28, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 261 ms and classified in 9 ms. Quality 88.77. Top hit PET (0.79).
+Found:: 3PET 0.79
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 11.85-41.71, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47910 +- 27, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 260 ms and classified in 9 ms. Quality 90.55. Top hit PETG (2.31).
+Found:: 2PETG 2.31
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 11.55-40.85, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47873 +- 23, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 261 ms and classified in 9 ms. Quality 90.60. Top hit PETG (2.35).
+Found:: 2PETG 2.35
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 11.60-41.60, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47883 +- 19, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 261 ms and classified in 9 ms. Quality 91.04. Top hit PET (1.15).
+Found:: 3PET 1.15
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 11.63-41.69, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47866 +- 24, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 260 ms and classified in 9 ms. Quality 91.05. Top hit PET (1.15).
+Found:: 3PET 1.15
+
+Secondary output: 0
+MatohaSpectrometer: Measurement error.
+MatohaMain: Measurement not steady!
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 47.88-51.01, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47874 +- 33, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 568 ms and classified in 16 ms. Quality 93.09. Top hit PET or
+PETG (0.50).
+Found:: 2PET/PETG 0.5
+
+Secondary output: 0
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 47.16-50.26, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47914 +- 20, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 568 ms and classified in 16 ms. Quality 94.46. Top hit PET or
+PETG (0.50).
+Found:: 2PET/PETG 0.5
+
+Secondary output: 0
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 52.84-56.50, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47865 +- 30, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 569 ms and classified in 16 ms. Quality 93.43. Top hit PETG or
+PET (0.50).
+Found:: 2PETG/PET 0.5
+
+Secondary output: 0
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 52.18-55.83, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47879 +- 32, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 569 ms and classified in 16 ms. Quality 92.88. Top hit PETG or
+PET (0.50).
+Found:: 2PETG/PET 0.5
+
+Secondary output: 0
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 22.31-25.09, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47879 +- 22, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 569 ms and classified in 16 ms. Quality 24.35. Top hit PU (0.24) (low confidence / unknown).
+Found:: 3PU 0.24
+
+MatohaSpectrometer: Sensor #0 4 avgs signal 15.61-46.18, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47870 +- 18, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 261 ms and classified in 9 ms. Quality 92.74. Top hit PET or
+PETG (0.50).
+Found:: 2PET/PETG 0.5
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 15.70-46.51, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47879 +- 40, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 260 ms and classified in 9 ms. Quality 92.51. Top hit PETG or
+PET (0.50).
+Found:: 2PETG/PET 0.5
+
+Secondary output: 0
+MatohaSpectrometer: Sensor #0 4 avgs signal 6.27-13.39, refl. max 73.010254. tlamp true.
+MatohaSpectrometer: Mean cycle time was 47870 +- 39, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 260 ms and classified in 9 ms. Quality 106.47. Top hit PLA (0.17) (low confidence / unknown).
+Found:: 3PLA 0.17
+
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 26.36-28.11, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47907 +- 16, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 568 ms and classified in 16 ms. Quality 105.25. Top hit PLA (2.62).
+Found:: 1PLA 2.62
+
+Secondary output: 0
+MatohaSpectrometer: Opaque sample.
+MatohaSpectrometer: Sensor #0 4 avgs signal 26.23-27.97, refl. max 73.010254. tlamp false.
+MatohaSpectrometer: Mean cycle time was 47883 +- 21, repeated 0 (mean 0).
+MatohaMain: Took a spectrum in 569 ms and classified in 16 ms. Quality 104.72. Top hit PLA (2.62).
