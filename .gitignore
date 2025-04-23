@@ -1,2 +1,2 @@
 *.log
-ds_store
+.DS_Store
