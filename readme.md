@@ -24,15 +24,20 @@ The python script 'plastell.py' is started automatically each time the Plastell 
 
 ![Raspbery Pi Parts](images/RaspberryPi3_parts.png)
 
+3D Printed case STL files here [STL Files](RaspberryPiCase)
+
+Modifed based on Thingiverse model: [Attribution for case](https://www.thingiverse.com/thing:922740)
+
+
 ## Serial output to Arduino
 
 Simplifed scanning results are sent over a the serial port for parsing via an Arduino.
 
-Note the first digital signify status;
-0 = Start
-1 = PLA
-2 = PETG
-3 = Not found / fault / other
+Note the first digital signifes status;
+- 0 = Start
+- 1 = PLA
+- 2 = PETG
+- 3 = Not found / fault / other
 
 ![Serial output](images/Serial_output.png)
 
