@@ -8,6 +8,11 @@ Links to Matoha webesite
   [Documentation Link](https://matoha.com/documentation)
 
 
+## Plastell Simulator by KiwiFil
+
+[Plastell Simulator](Simulator/simulator.md)
+
+
 ## Raspberry Pi test rig
 
 ![Test rig photo](images/Plastell_test_rig.png)
